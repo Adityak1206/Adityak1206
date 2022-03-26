@@ -1,16 +1,66 @@
-### Hi there 👋
+# Bonjour / Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**Adityak1206/Adityak1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Adityak1206&color=green)
 
-Here are some ideas to get you started:
+<a href="www.linkedin.com/in/Adityak1206">
+  <img align="left" alt="Aditya Raj Kaushik - LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
+<a href="https://instagram.com/a_raj_k">
+  <img align="left" alt="Aditya Raj Kaushik - Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/arktwts">
+  <img align="left" alt="Aditya Raj Kaushik - Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+
+
+<br />
+
+I am a 3rd year CSE undergraduate student at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
+
+
+💻 **Skills**: React, HTML, CSS, JS, MONGODB, NODE.JS, C++, DSA, GitHub 
+
+
+🔆 Favourite Quote: Dreams are not what you see when you sleep, dreams are something which don't let you sleep.
+
+
+
+<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40"/> 
+  </a> 
+  <a href="https://html.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"  width="40" height="40"/> 
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png"  width="40" height="40"/> 
+  </a> 
+   <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"  width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"  width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"  width="40" height="40"/> 
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"  width="40" height="40"/> 
+  </a> 
+  
+</p>
+
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Adityak1206&count_private=true&showicons=true&theme=jolly" width="350" height="250" align="left">
+</a>
+<a href="#">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityak1206&showicons=true&theme=jolly" width="350" height="250" align="left">
+</a>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adityak1206&show_icons=true&theme=jolly&locale=en" alt="iamvs-2002" />
+</p>
+
