@@ -16,7 +16,7 @@
 <br />
 <br />
 
-I am a 3rd year CSE undergraduate student at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
+I am CSE undergraduate student at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 
 
 💻 **Skills**: React, HTML, CSS, JS, MONGODB, NODE.JS, C++, DSA, GitHub 
