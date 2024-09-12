@@ -16,7 +16,7 @@
 <br />
 <br />
 
-I am CSE undergraduate student at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
+I am MS Software Engineering Graduate student at [San Jose State University](https://www.sjsu.edu/).
 
 
 💻 **Skills**: React, HTML, CSS, JS, MONGODB, NODE.JS, C++, DSA, GitHub 
